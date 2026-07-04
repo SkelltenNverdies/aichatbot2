@@ -1,0 +1,12 @@
+{
+  "name": "qwen-chat-vercel",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "multer": "^1.4.5-lts.1",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
